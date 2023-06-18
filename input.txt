@@ -1,0 +1,17 @@
+AddBook,Java Programming,John Doe,Publisher A,2021-01-01
+AddBook,Python Basics,Jane Smith,Publisher B,2022-02-02
+
+SignUp,John Smith
+Signup,Titwech Wal
+SignUp,Melody Berhane
+
+SignIn,John Smith
+BorrowBook,Java Programming
+
+SignUp,Jane Doe
+DonateBook,Python Basics
+
+ReturnBook,Java Programming
+DonateBook,How To Love,Melody Berhane,Titwech W,2022-02-02\
+PrintInventory
+PRINT_MEMBERS
